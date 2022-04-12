@@ -13,7 +13,7 @@ This project demonstrates using SQL Queries to explore Covid data, and then usin
 
 Link to Dashboard: https://public.tableau.com/app/profile/tallulah.carter.kelly/viz/CovidDataDashboard2022PortfolioProject/Dashboard1 
 
-💛 PROJECT 3: 
+💛 PROJECT 3: SQLDataCleaning.sql
 
 This project demonstrates using SQL to clean data to make it more useable and standardised 
 
