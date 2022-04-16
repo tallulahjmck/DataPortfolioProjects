@@ -19,4 +19,8 @@ This project demonstrates using SQL to clean data to make it more useable and st
 
 Link to original dataset: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
-💙 PROJECT 4: 
+💙 PROJECT 4: Movie Correlation Project.ipynb
+
+This project demonstrates using Jupyter Notebook and Python to find correlations between variables 
+
+Link to original dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies 
